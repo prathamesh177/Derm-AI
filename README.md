@@ -31,11 +31,12 @@ Early detection of dermatological diseases is crucial for effective treatment an
 ## Dataset
 
 The dataset used in this project consists of labeled images of various dermatological conditions. 
-- **Classes**: Multiple dermatological disease categories.
+- **Classes**: Multiple dermatological disease categories ![image](https://github.com/user-attachments/assets/dbc1e245-8080-4e9b-9a40-8c406b6c50ba)
+
 - **Size**: Approximately `[specify dataset size if known]` images.
 - **Preprocessing**: Images were resized, normalized, and augmented to enhance model performance.
 
-> **Note**: The dataset is not included in this repository due to size constraints. You can download the dataset from `[Dataset Source]`.
+> **Note**: The dataset is not included in this repository due to size constraints. You can download the dataset from Internet.
 
 ## Technologies Used
 
@@ -44,7 +45,6 @@ The dataset used in this project consists of labeled images of various dermatolo
 - **NumPy**
 - **Matplotlib**
 - **Pandas**
-- **OpenCV (optional)**
 
 ## Model Architecture
 
@@ -62,5 +62,29 @@ The dataset used in this project consists of labeled images of various dermatolo
 1. Clone this repository:
    ```bash
    git clone https://github.com/prathamesh177/Derm-AI/tree/main.git
-   pip install -r requirements.txt
+
+## Model Architecture
+
+![image](https://github.com/user-attachments/assets/20cc2fa0-5ac8-41b5-9192-fa20a79a2775)
+![image](https://github.com/user-attachments/assets/f8c04779-b01c-4b68-9d58-a8b330f0174d)
+
+
+## Results 
+
+![WhatsApp Image 2024-10-27 at 21 41 13_360d1dc3](https://github.com/user-attachments/assets/5a9603cf-bda0-44f9-9c4f-5083f3190621)
+
+## Future Scope
+Integration of Multimodal Data:
+Incorporating additional data types, such as patient history, genetic factors, and environmental
+conditions, could enhance the model’s predictive capabilities, providing a more holistic
+diagnostic solution.
+ Future iterations of the model can integrate explainable AI techniques to make the predictions
+interpretable for clinicians. This will build trust in AI systems by providing insights into the
+decision-making process of the algorithm.
+ Continuously updating the model with new data to enhance its predictive capabilities and adapt
+to emerging skin disease trends.
+ Ensuring patient privacy and data security by implementing robust encryption and compliance
+with healthcare regulations.
+ Integrating patient medical history, genetic factors, and environmental exposures to improve
+prediction accuracy. 
 
