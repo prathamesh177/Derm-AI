@@ -75,16 +75,21 @@ The dataset used in this project consists of labeled images of various dermatolo
 
 ## Future Scope
 Integration of Multimodal Data:
+
 Incorporating additional data types, such as patient history, genetic factors, and environmental
 conditions, could enhance the model’s predictive capabilities, providing a more holistic
 diagnostic solution.
- Future iterations of the model can integrate explainable AI techniques to make the predictions
+
+Future iterations of the model can integrate explainable AI techniques to make the predictions
 interpretable for clinicians. This will build trust in AI systems by providing insights into the
 decision-making process of the algorithm.
- Continuously updating the model with new data to enhance its predictive capabilities and adapt
+
+Continuously updating the model with new data to enhance its predictive capabilities and adapt
 to emerging skin disease trends.
- Ensuring patient privacy and data security by implementing robust encryption and compliance
+
+Ensuring patient privacy and data security by implementing robust encryption and compliance
 with healthcare regulations.
- Integrating patient medical history, genetic factors, and environmental exposures to improve
+
+Integrating patient medical history, genetic factors, and environmental exposures to improve
 prediction accuracy. 
 
