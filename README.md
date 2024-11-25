@@ -50,12 +50,7 @@ The dataset used in this project consists of labeled images of various dermatolo
 
 1. **Convolutional Neural Networks (CNN):**
    - Designed a custom CNN for feature extraction and classification.
-2. **Transfer Learning Models:**
-   - Pre-trained models such as **ResNet50**, **InceptionV3**, or **EfficientNet** were fine-tuned for dermatological image classification.
-3. **Optimization:**
-   - Optimizer: `Adam`
-   - Loss function: `Categorical Crossentropy`
-   - Metrics: `Accuracy`
+2. **Transfer Learning**
 
 ## How to Run
 
