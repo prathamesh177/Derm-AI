@@ -16,8 +16,6 @@ This repository contains a deep learning-based solution for predicting dermatolo
 - [How to Run](#how-to-run)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -63,4 +61,6 @@ The dataset used in this project consists of labeled images of various dermatolo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/dermatological-disease-prediction.git
+   git clone https://github.com/prathamesh177/Derm-AI/tree/main.git
+   pip install -r requirements.txt
+
