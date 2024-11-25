@@ -45,6 +45,7 @@ The dataset used in this project consists of labeled images of various dermatolo
 - **NumPy**
 - **Matplotlib**
 - **Pandas**
+- **Streamlit**
 
 ## Model Architecture
 
