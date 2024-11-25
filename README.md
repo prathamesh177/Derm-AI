@@ -33,7 +33,7 @@ Early detection of dermatological diseases is crucial for effective treatment an
 The dataset used in this project consists of labeled images of various dermatological conditions. 
 - **Classes**: Multiple dermatological disease categories ![image](https://github.com/user-attachments/assets/dbc1e245-8080-4e9b-9a40-8c406b6c50ba)
 
-- **Size**: Approximately `[specify dataset size if known]` images.
+- **Size**: Approximately 3000 images.
 - **Preprocessing**: Images were resized, normalized, and augmented to enhance model performance.
 
 > **Note**: The dataset is not included in this repository due to size constraints. You can download the dataset from Internet.
